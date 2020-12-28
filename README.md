@@ -1,3 +1,0 @@
-# MyCaptain
-Learning to code
-
